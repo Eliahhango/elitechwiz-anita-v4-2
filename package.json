@@ -47,7 +47,7 @@
     "lodash": "latest",
     "lolcatjs": "^2.4.1",
     "lowdb": "^7.0.1",
-    "moment-timezone": "^0.5.34",
+    "moment-timezone": "^0.6.2",
     "mongoose": "^7.1.1",
     "net": "^1.0.2",
     "node-cache": "^5.1.2",
