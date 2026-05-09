@@ -62,7 +62,7 @@
     "path": "^0.12.7",
     "perf_hooks": "latest",
     "performance-now": "*",
-    "pino": "^8.17.2",
+    "pino": "^10.3.1",
     "playwright": "^1.54.2",
     "pm2": "^5.2.0",
     "pretty-ms": "^7.0.1",
